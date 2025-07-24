@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/192596770?v=4" width="120" height="120" style="border-radius:50%;border:4px solid #3b82f6;" alt="wellfinal77 Avatar"/>
 </p>
-<h1 align="center">Welcome to wellfina77 👋</h1>
+<h1 align="center">Welcome to wellfinal77 👋</h1>
 
 <p align="center">
   <b>A unique project by <a href="https://github.com/wellfinal77">wellfinal77</a></b>
@@ -35,8 +35,16 @@ Hi! I'm **wellfinal77** — an explorer, maker, and passionate developer. I love
 ## 🛠️ Tech Stack
 
 <!-- Add or update these as your project grows -->
-- **Languages:**  
-  ![Languages](https://skillicons.dev/icons?i=python,js,html,css)
+- **Languages (Fullstack):**  
+  ![Languages](https://skillicons.dev/icons?i=python,js,html,css,ts,java,go,php)
+- **Frontend:**  
+  ![Frontend](https://skillicons.dev/icons?i=react,vue,angular,nextjs,tailwind)
+- **Backend:**  
+  ![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi)
+- **Cloud:**  
+  ![Cloud](https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes)
+- **Database:**  
+  ![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite)
 - **Tools:**  
   ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
 
@@ -66,4 +74,4 @@ Let's connect and build something amazing together!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks for visiting!"/>
-</p>
+</p>  
