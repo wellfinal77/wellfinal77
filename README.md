@@ -68,7 +68,7 @@ If you have ideas, suggestions, or improvements, feel free to fork the repositor
 Let's connect and build something amazing together!
 
 - GitHub: [wellfinal77](https://github.com/wellfinal77)
-- Email: _Add your email here if you want to be contacted_
+- Email: fina202402@st.forum.ac.jp
 
 ---
 
