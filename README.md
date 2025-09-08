@@ -97,7 +97,7 @@
   
 <!-- Project Cards -->
 <a href="https://wellfinal77.github.io/myportfolio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellfinal77&repo=project1&theme=radical&hide_border=true&border_radius=15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellfinal77&repo=myportfolio&theme=radical&hide_border=true&border_radius=15" />
 </a>
 <a href="https://github.com/wellfinal77/project2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellfinal77&repo=project2&theme=radical&hide_border=true&border_radius=15" />
