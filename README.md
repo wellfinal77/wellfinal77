@@ -69,7 +69,7 @@
 
 ### 🎨 Frontend Magic
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,tailwind,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma" />
 </p>
 
 ### ⚙ Backend Power
@@ -79,12 +79,12 @@
 
 ### ☁ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,github" />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes,github" />
 </p>
 
 ### 🗄 Data Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
 </p>
 
 </div>
