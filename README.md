@@ -38,7 +38,7 @@
 
 ---
 
-## 🌈 About Me 
+##  About Me 
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">
 <br>
