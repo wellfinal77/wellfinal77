@@ -201,4 +201,4 @@
 </p>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5700,20:C24914,30:B03A2E,40:8B2635,50:6C1E3F,60:4A0E4E,70:2E0249,80:15023A,90:0F0C29,100:24243e&height=120&section=footer&animation=twinkling" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5700,20:C24914,30:B03A2E,40:8B2635,50:6C1E3F,60:4A0E4E,70:2E0249,80:15023A,90:0F0C29,100:24243e&height=120&section=footer&animation=twinkling" alt="footer"/>
