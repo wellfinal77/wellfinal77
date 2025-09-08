@@ -40,8 +40,7 @@
 
 ## 🌈 About Me 
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">
 <br>
 
 - 🔭 *Currently Working On:* Building innovative web solutions
